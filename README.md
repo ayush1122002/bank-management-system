@@ -1,2 +1,3 @@
-# bank-management-system
-the sparks foundation web-development internship task
+# bankmanagementsystem
+A web application used to transfer money between two users.
+the spark foundation
